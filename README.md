@@ -20,7 +20,7 @@ Al hacer clic en los episodios, se genera otra página dinámica donde se puede 
 - ReactJs 18
 - Tailwindcss
 - API de ITUNES 
-- [toppodcasts: https://itunes.apple.com/us/rss/toppodcasts/limit=${limit}/genre=1320/json]
+- [toppodcasts: https://itunes.apple.com/us/rss/toppodcasts/limit=25/genre=1320/json]
 - [episodeInfo: https://itunes.apple.com/lookup?id=${id}&media=podcast&entity=podcastEpisode&limit=20]
 
 ## WHY NEXTJS?
