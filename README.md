@@ -4,13 +4,6 @@ podcast-app
 # URL del proyecto
 https://podcast-app-gosbi.vercel.app/
 
-## Previsualización de la App
-[![Preview de la aplicación](https://img.youtube.com/vi/aQlg4CkUNFA/0.jpg)](https://www.youtube.com/watch?v=aQlg4CkUNFA)   
-
-
-## Previsualización del código
-[![Preview del código realizado](https://img.youtube.com/vi/TK42WVjSDwU/0.jpg)](https://www.youtube.com/watch?v=TK42WVjSDwU)   
-
 ## Descripción del proyecto
 Este proyecto es una aplicación web que se conecta a la API de ITUNES para mostrar los 100 mejores podcasts en la actualidad. Al iniciar la aplicación, se muestran los 100 primeros podcasts. Tenemos una pequeña función de filtrado para buscar los podcast por su nombre y/o autor. Esta función nos indicará el número de coincidencias. Cuando se hace click en la imagen de cada podcast, se dirige a una página creada dinámicamente que muestra la información del podcast y los episodios relacionados. La url será generada siempre a partir de la id del própio podcast.
 
