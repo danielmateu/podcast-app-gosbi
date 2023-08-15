@@ -1,6 +1,9 @@
 # Título del proyecto
 podcast-app
 
+# URL del proyecto
+https://podcast-app-gosbi.vercel.app/
+
 ## Previsualización de la App
 [![Preview de la aplicación](https://img.youtube.com/vi/aQlg4CkUNFA/0.jpg)](https://www.youtube.com/watch?v=aQlg4CkUNFA)   
 
